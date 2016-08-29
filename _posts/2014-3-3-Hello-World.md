@@ -1,7 +1,4 @@
----
-layout: post
-title: Starting from Week Zero: What did I do this past week?
----
+# Starting from Week Zero: What did I do this past week?
 
 Summer break has found its end, and I found myself in Professor Downing's Object-Oriented Programming course on my first day of classes in this previous half-week. I have heard and read about Professor Downing's teaching style, all of which were in positive note, so I wanted to experience this brillance first-hand. 
 
