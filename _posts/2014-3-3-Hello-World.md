@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Week Zero
 ---
 
 # Starting from Week Zero: What did I do this past week?
