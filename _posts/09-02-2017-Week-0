@@ -1,0 +1,38 @@
+---
+layout: post
+title: Week/Zero
+---
+
+## What did I do this past week?
+
+Ah, yes. The wonderful first week of school. Too bad I don't know how wonderful it was because I could not experience it. Due to the events of Hurricane Harvey, I have been stuck in Houston for the greater half of this past week. While it's nice that I get a couple days of break through the long weekend of Labor Day, missing three days of class right at the very beginning is not a good way to start off the semester. I was able to do work for my online class, but that's about it from my weekly update.
+
+## What are my expectations of the class?
+
+Given the name of the course, I expect to learn a bit about the workflow behind software engineering. I have gotten some exposure to this from OOP, and it seems like the workflow is similar to that. I expect most of the things we will be doing in this class to be similar to OOP, from the way lecture is structured to the daily quizzes. I am also looking forward to learning more about Python which we will hopefully go as indepth as with C++ in OOP.
+
+## What's in my way?
+
+I will definitely need to catch up on anything I may have missed in class. Fortunately, since it is the first week, not much has happened, but I have already missed the first quiz of the semester, so that's a pretty terrible start.
+
+## What will I do next week?
+
+I will be officially starting my first week of school next week. The goal is to get caught up for everything by Wednesday so that I don't get annihilated by another quiz.
+
+## What's my experience of the class?
+
+I am sorry to say that I have not had the chance to experience the class :/
+
+## Pick of the week
+
+This past summer was my first internship. Yes, I'm very late to the party, but better late than never. It was a wonderful experience, and I learned a lot of things that I hope I will be able to share with you all.
+
+This week's pick is Java 8's [CompletableFuture](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletableFuture.html) class. This is pretty old news to many of you, especially with Java 9 on the horizon, but since we exclusively use Java 7 here at UT, it was one of the most magical things I used during my internship.
+
+To those who are unfamiliar with what Futures are, they are asynchronous threads which perform an assigned computation with the promise of a result upon completion of that computation. This frees up the main thread to do something else while the Future executes, and when you finally need the result of the computation to proceed, you can retrieve it from the Future using a get() if it is done or block until it is done. You could then use that result to perform another computation in another Future and repeat the process until your entire computation chain is done.
+
+What's the problem here? Well, until that computation is done, the main thread would sit waiting for the completion to initiate the next computation. That's where CompletableFutures come in. They extend the functionality of the Future interface by allowing you to chain these computations together using a wide variety of methods that take the result of one computation as the input for the next computation. Now, the execution of the program is simply create a CompletableFuture that performs a computation and chain it with any subsequent computations you would like to do, do whatever you need to do in the main thread, and when all the computations are done, you can get the final result without having to block after every step.
+
+This was an incredibly useful tool for my internship project. Each of the processes of the service I worked with would be a Future that has the result of the success or the failures associated with that process. With multiple of these working in line, the need to check which ones succeeded and which ones failed, and a limited timing window, I couldn't spare any time to block and idly wait for confirmation.
+
+That's all for now. See you guys next week!
