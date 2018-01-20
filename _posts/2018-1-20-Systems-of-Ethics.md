@@ -20,7 +20,9 @@ Morality is not well-defined enough to be truly explained by a single system of 
 ## Sources
 ** Shakil, Ali. *Kantian Duty Based (Deontology) Ethics.* Seven Pillars Institute, 29 Jan. 2013,
       https://sevenpillarsinstitute.org/kantian-duty-based-deontological-ethics/. Accessed 20 Jan 2018.
+      
 ** *Categorical imperative.* Wikipedia, 15 Jan. 2018,
       https://en.wikipedia.org/wiki/Categorical_imperative. Accessed 20 Jan 2018.
+      
 ** *Introduction to ethics: Duty-based ethics.* BBC, 
       http://www.bbc.co.uk/ethics/introduction/duty_1.shtml. Accessed 20 Jan 2018.
