@@ -18,11 +18,11 @@ On the surface, deontology provides unconditional rules to follow when faced wit
 Morality is not well-defined enough to be truly explained by a single system of ethics. No matter how we try to categorize what is right and what is wrong, there will always be exceptions. Even as I write about the duty-based ethics system, I cannot help but notice that there would be certain decisions where I would have to also consider the ends in addition to the means. If morality was clear-cut, there would be only a single system that dictates exactly what should be done in every situation, but if that was the case, this would not be an assignment.
 
 ## Sources
-** Shakil, Ali. *Kantian Duty Based (Deontology) Ethics.* Seven Pillars Institute, 29 Jan. 2013,
-      https://sevenpillarsinstitute.org/kantian-duty-based-deontological-ethics/. Accessed 20 Jan 2018.
+Shakil, Ali. *Kantian Duty Based (Deontology) Ethics.* Seven Pillars Institute, 29 Jan. 2013,
+    https://sevenpillarsinstitute.org/kantian-duty-based-deontological-ethics/. Accessed 20 Jan 2018.
       
-** *Categorical imperative.* Wikipedia, 15 Jan. 2018,
-      https://en.wikipedia.org/wiki/Categorical_imperative. Accessed 20 Jan 2018.
+*Categorical imperative.* Wikipedia, 15 Jan. 2018,
+    https://en.wikipedia.org/wiki/Categorical_imperative. Accessed 20 Jan 2018.
       
-** *Introduction to ethics: Duty-based ethics.* BBC, 
-      http://www.bbc.co.uk/ethics/introduction/duty_1.shtml. Accessed 20 Jan 2018.
+*Introduction to ethics: Duty-based ethics.* BBC, 
+    http://www.bbc.co.uk/ethics/introduction/duty_1.shtml. Accessed 20 Jan 2018.
